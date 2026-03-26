@@ -1,0 +1,10 @@
+{
+  "name": "ai-influencer-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "axios": "^1.6.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
